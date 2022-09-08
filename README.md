@@ -16,7 +16,7 @@ Repositori ini berisi EDA sederhana yang menggambarkan dataset Telco Customer Ch
 ## EDA Question
 1. Top 10 Jumlah TotalCharges tertinggi berdasarkan tenure dan Contract? 
 Customer dengan jangka waktu 72 dan durasi kontrak per 2 tahun menghasilkan pendapatan tertinggi dan
-Target marketing bisa fokus kepada Customer dengan durasi kontrak per 2 tahun karena lebih menguntungkan
+target marketing bisa fokus kepada Customer dengan durasi kontrak per 2 tahun karena lebih menguntungkan
 2. Berapa persentase Customer churn dan MonthlyCharges churn?
 Persentase customer churn sebesar 31% dan MonthlyCharges Churn sebesar 27%
-dan Butuh tindaklanjut agar presentase tersebut dapat turun (contoh: pemberian diskon/promo)
+dan butuh tindaklanjut agar presentase tersebut dapat turun (contoh: pemberian diskon/promo)
