@@ -7,7 +7,7 @@ Repositori ini berisi EDA sederhana yang menggambarkan dataset Telco Customer Ch
 4. Univariate Analysis
 5. Multivariate Analysis
 ## EDA Summary
-1. Dataset sudah bagus karena tidak ditemukan missing value dab duplicated value
+1. Dataset sudah bagus karena tidak ditemukan missing value dan duplicated value
 2. Tidak ada yang janggal pada nilai minimum maupun nilai maksimum pada masing2 kolom
 3. tenure mempunyai korelasi kuat dengan TotalCharges
 4. MonthlyCharges mempunyai korelasi dengan TotalCharges namun tidak sekuat korelasi antara tenure dengan TotalCharges
