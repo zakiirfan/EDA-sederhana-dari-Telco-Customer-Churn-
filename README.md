@@ -15,8 +15,8 @@ Repositori ini berisi EDA sederhana yang menggambarkan dataset Telco Customer Ch
 6. Customer Churn memiliki tenure, MonthlyCharges dan TotalCharges yang lebih rendah
 ## EDA Question
 1. Top 10 Jumlah TotalCharges tertinggi berdasarkan tenure dan Contract? 
-a. Customer dengan jangka waktu 72 dan durasi kontrak per 2 tahun menghasilkan pendapatan tertinggi
-b. Target marketing bisa fokus kepada Customer dengan durasi kontrak per 2 tahun karena lebih menguntungkan
+Customer dengan jangka waktu 72 dan durasi kontrak per 2 tahun menghasilkan pendapatan tertinggi dan
+Target marketing bisa fokus kepada Customer dengan durasi kontrak per 2 tahun karena lebih menguntungkan
 2. Berapa persentase Customer churn dan MonthlyCharges churn?
-a. Persentase customer churn sebesar 31% dan MonthlyCharges Churn sebesar 27%
-b. Butuh tindaklanjut agar presentase tersebut dapat turun (contoh: pemberian diskon/promo)
+Persentase customer churn sebesar 31% dan MonthlyCharges Churn sebesar 27%
+dan Butuh tindaklanjut agar presentase tersebut dapat turun (contoh: pemberian diskon/promo)
